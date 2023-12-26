@@ -2,7 +2,7 @@
   <br>
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/logo.png" alt="logo" width="200">
   <br><br>
-  Material Icon Theme
+ Yash Icon Theme Present's
   <br>
   <br>
 </h1>
